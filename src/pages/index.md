@@ -31,7 +31,8 @@ sections:
         image_width: twenty-five
       - title: Beginners & Advanced
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: |
+          Activities and events for beginners and advanced.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon

@@ -7,7 +7,7 @@ sections:
     content: |
       **September 9-10, 2021**
     actions:
-      - label: Get Your Ticket Today!
+      - label: Join the Dawson Tech Club Now!
         url: /about
         style: primary
     align: center

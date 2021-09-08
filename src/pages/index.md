@@ -29,7 +29,6 @@ sections:
         image_position: left
         image_width: twenty-five
         title: asdfasdf
-        subtitle: asdf
       - title: Beginners & Advanced
         title_align: left
         content: |

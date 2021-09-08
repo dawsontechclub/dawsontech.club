@@ -29,7 +29,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
-      - title: Beginners &
+      - title: Beginners & Advanced
         title_align: left
         content: Two tracks conference for curious developers.
         content_align: left

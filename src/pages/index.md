@@ -40,7 +40,8 @@ sections:
         image_width: twenty-five
       - title: 5+ Technology Subjects
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: |
+          Vast selection of subjects to choose from.
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon

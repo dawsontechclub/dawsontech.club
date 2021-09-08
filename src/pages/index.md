@@ -55,9 +55,10 @@ sections:
   - type: features_section
     title: 'What you’ll Learn, Explore & Build'
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: >
+          Learn the necessary theories in interactive seminars. Explore endless
+          possibilities in engaging workshops. Build technologies that you are
+          proud of.
         align: center
     feature_padding_vert: medium
     align: center

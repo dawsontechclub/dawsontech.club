@@ -20,9 +20,8 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content: >
-          Understand and appreciate the work that went into the development of
-          technologies.
+        content: |
+          Understand and appreciate technology.
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon

@@ -86,11 +86,9 @@ sections:
         media_position: left
         media_width: sixty
       - title: Web Development
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          An overview of computer networks, infrastructure, user security, cloud
+          computing, HTML, and Node.js.
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right

@@ -5,7 +5,7 @@ sections:
     title: Learn. Explore. Build.
     subtitle: A Club about Technologies
     content: |
-      **September 9 - 10, 2021**
+      **September 9-10, 2021**
     actions:
       - label: Get Your Ticket Today!
         url: /about

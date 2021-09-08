@@ -37,6 +37,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
+        subtitle: asdf
       - title: 20+ Speakers
         title_align: left
         content: Best in the field speakers and instructors.

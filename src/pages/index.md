@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Learn. Explore. Build.
     subtitle: A Club about Technologies
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **September 9 - 10, 2021**
     actions:
       - label: Get Your Ticket Today!
         url: /about

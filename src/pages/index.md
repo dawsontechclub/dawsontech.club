@@ -155,7 +155,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
 seo:
-  title: Stackbit Event Theme
+  title: Dawson Tech Club
   description: The preview of the Event theme
   extra:
     - name: 'og:type'

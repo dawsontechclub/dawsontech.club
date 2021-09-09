@@ -172,11 +172,11 @@ sections:
 
           **Time:** 9:30 AM to 3:30 PM
       - content: |
-          Discord
+          #### Discord
 
           <https://discord.gg/jbWwdheAWu>
 
-          GitHub
+          #### GitHub
 
           <https://github.com/dawsontechclub>
     grid_cols: two

@@ -161,36 +161,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 15
-  - type: grid_section
-    grid_items:
-      - title: Contacts
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
-
-          **Time:** 9:30 AM to 3:30 PM
-      - content: >
-          #### Discord
-
-
-          <https://discord.gg/jbWwdheAWu>
-
-
-          #### GitHub
-
-
-          [https://github.com/dawsontechclub](https://github.com/daasdasdfasdffwsontechclub)
-        title: Useful Links
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme

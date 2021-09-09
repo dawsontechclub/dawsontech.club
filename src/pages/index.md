@@ -120,8 +120,8 @@ sections:
       - title: Can I join if I don't have any experience with code or robotics?
         title_align: left
         content: >
-          Yes! Beginners are totally welcomed. As long as you are interested,
-          you will have no trouble.
+          Yes! Beginners are totally welcome to join. As long as you are
+          interested, you will have no trouble.
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left

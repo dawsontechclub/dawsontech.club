@@ -171,17 +171,17 @@ sections:
           [email@example.com](mailto:email@example.com)<br/>
 
           **Time:** 9:30 AM to 3:30 PM
-      - content: |+
+      - content: >
           #### Discord
 
+
           <https://discord.gg/jbWwdheAWu>
+
 
           #### GitHub
 
 
-
-          \[GitHub]\(<https://github.com/dawsontechclub>)
-
+          [https://github.com/dawsontechclub](https://github.com/daasdasdfasdffwsontechclub)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large

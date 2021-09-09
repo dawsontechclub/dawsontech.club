@@ -135,7 +135,7 @@ sections:
           Having a computer is preferable, but not required. If everything goes
           accordingly, we might be able to have some computers available.
         content_align: left
-      - title: What payment types do you accept?
+      - title: Can I become a club instructor?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet

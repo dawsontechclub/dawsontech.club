@@ -100,7 +100,7 @@ sections:
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
     actions:
-      - label: Get tickets
+      - label: Join Us
         url: /thank-you
         style: primary
         has_icon: true

@@ -37,7 +37,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
-      - title: 5+ Technology Subjects
+      - title: 5+ Covered Topics
         title_align: left
         content: |
           Vast selection of subjects to choose from.

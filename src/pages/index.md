@@ -93,7 +93,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-      - title: 'Low-Level Programming, Games and more!'
+      - title: 'Low-Level, Games and more!'
         actions: []
         image_alt: lorem-ipsum
         media_position: top

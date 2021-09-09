@@ -33,7 +33,8 @@
         "has_primary_nav": false,
         "has_secondary_nav": false,
         "has_tertiary_nav": false,
-        "has_social": false
+        "has_social": false,
+        "content": "Dawson Tech Club"
     },
     "title": "Stackbit Event Theme",
     "domain": "https://great-kangaroo-93fb6.netlify.app"

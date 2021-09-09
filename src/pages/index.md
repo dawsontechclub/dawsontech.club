@@ -176,7 +176,7 @@ seo:
     - name: 'twitter:title'
       value: Dawson Tech Club
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: The Dawson Tech Club website
     - name: 'twitter:image'
       value: images/tech_cpu.jpg
       relativeUrl: true

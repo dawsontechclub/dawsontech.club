@@ -87,7 +87,7 @@ sections:
         media_width: sixty
       - title: Web Development
         content: >
-          An overview of computer networks, infrastructure, user security, cloud
+          An overview of client-server architectures, user security, cloud
           computing, HTML, and Node.js.
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image

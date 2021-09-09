@@ -98,7 +98,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
+    title: Help yourself learn cool stuff!
     actions:
       - label: Join Us
         url: /thank-you

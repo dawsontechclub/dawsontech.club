@@ -125,11 +125,9 @@ sections:
         content_align: left
       - title: How many hours of participation per week minimum?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          There are no minimum requirements. Your commitment is entirely based
+          on your motivation and curiosity.
         content_align: left
       - title: Can I get a refund on my tickets?
         title_align: left

@@ -89,7 +89,7 @@ sections:
           An overview of client-server architectures, user security, cloud
           computing, HTML, and Node.js. Create web applications that will help
           Dawson College and its community.
-        image: images/feature-3.jpg
+        image: images/SEO-Web-Development-How-To-Fix-Common-SEO-Mistakes-header.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty

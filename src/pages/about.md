@@ -28,10 +28,14 @@ seo:
       relativeUrl: true
 template: page
 ---
+#### Who we are
+
+We are a group of passionate students who are interested in learning technologies, exploring the possibilities, and building cool things.
+
 #### Goal
 
 The Dawson Tech Club is formed to give students an easy and free way to learn, explore and build cool things with technologies.
 
-#### Who we are
+#### Discord
 
-We are a group of passionate students who are interested in learning technologies, exploring the possibilities, and building cool things.
+\<a>asdf<\a>

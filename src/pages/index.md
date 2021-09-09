@@ -135,7 +135,7 @@ sections:
           Having a computer is preferable, but not required. If everything goes
           accordingly, we might be able to have some computers available.
         content_align: left
-      - title: Can I become a club instructor?
+      - title: Can I get help for my CS or EE assignments?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet

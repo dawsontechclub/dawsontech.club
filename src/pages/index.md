@@ -178,7 +178,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: images/tech_cpu.jpg
       relativeUrl: true
 template: advanced
 ---

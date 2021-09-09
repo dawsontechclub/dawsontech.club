@@ -119,11 +119,9 @@ sections:
     grid_items:
       - title: Can I join if I don't have any experience with code or robotics?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Yes! Beginners are totally welcomed. As long as you are interested,
+          you will have no trouble.
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left

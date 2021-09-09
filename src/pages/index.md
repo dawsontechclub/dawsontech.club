@@ -171,8 +171,7 @@ sections:
           [email@example.com](mailto:email@example.com)<br/>
 
           **Time:** 9:30 AM to 3:30 PM
-      - title: Follow Us
-        content: |
+      - content: |
           Discord
 
           <https://discord.gg/jbWwdheAWu>

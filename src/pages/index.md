@@ -68,10 +68,9 @@ sections:
   - type: features_section
     features:
       - title: Machine Learning
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        content: >
+          Understand the mathematical beauty of a computer brain. Classify,
+          identify and generate images, sounds, really anything with AI.
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right

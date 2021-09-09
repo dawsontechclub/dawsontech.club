@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Sponsorship",
-                "url": "/sponsorship",
-                "style": "link"
-            },
-            {
                 "label": "Join Us",
                 "url": "https://join.dawsontech.club",
                 "style": "primary"

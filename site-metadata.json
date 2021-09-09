@@ -32,5 +32,6 @@
         "content": "Dawson Tech Club © 2021"
     },
     "title": "Stackbit Event Theme",
-    "domain": "https://dawsontech.club"
+    "domain": "https://dawsontech.club",
+    "favicon": "images/yadtc.png"
 }

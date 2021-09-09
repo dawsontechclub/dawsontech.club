@@ -117,7 +117,7 @@ sections:
   - type: grid_section
     title: Frequently Asked Questions
     grid_items:
-      - title: Is experience with technology required to join?
+      - title: Is experience with technology required?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet

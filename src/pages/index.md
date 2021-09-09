@@ -163,7 +163,7 @@ sections:
     background_image_opacity: 15
   - type: grid_section
     grid_items:
-      - title: Address
+      - title: Contacts
         content: |-
           1234 Some St.<br/>
           Some City, ST 12345<br/>

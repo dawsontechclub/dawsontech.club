@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 seo:
   title: About
   description: This is the about us page
@@ -28,3 +28,23 @@ seo:
       relativeUrl: true
 template: page
 ---
+#### Who we are
+
+We are a group of passionate students who are interested in learning technologies, exploring the possibilities, and building cool things.
+
+#### Goal
+
+The Dawson Tech Club is formed to give students an easy and free way to learn, explore and build cool things with technologies.
+
+#### Discord
+
+Join our Discord community!
+
+<https://discord.gg/jbWwdheAWu>
+
+#### Open Source
+
+We are a big fan of open-source projects!
+
+<https://github.com/dawsontechclub>
+

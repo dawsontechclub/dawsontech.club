@@ -162,23 +162,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: Dawson Tech Club
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: The Dawson Tech Club website
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: images/tech_cpu.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: Dawson Tech Club
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: The Dawson Tech Club website
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: images/tech_cpu.jpg
       relativeUrl: true
 template: advanced
 ---

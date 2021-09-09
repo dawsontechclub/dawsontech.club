@@ -156,7 +156,7 @@ sections:
     background_image_opacity: 15
 seo:
   title: Dawson Tech Club
-  description: The preview of the Event theme
+  description: 'Dawson Tech Club '
   extra:
     - name: 'og:type'
       value: website

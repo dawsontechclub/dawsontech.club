@@ -165,7 +165,7 @@ seo:
       value: Dawson Tech Club
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: The Dawson Tech Club website
       keyName: property
     - name: 'og:image'
       value: images/tech_cpu.jpg

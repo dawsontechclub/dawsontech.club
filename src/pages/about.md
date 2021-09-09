@@ -28,4 +28,4 @@ seo:
       relativeUrl: true
 template: page
 ---
-Hello
+The Dawson Tech Club is formed to give students an easy and free way to learn, explore and build cool things with technologies.

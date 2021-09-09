@@ -28,3 +28,4 @@ seo:
       relativeUrl: true
 template: page
 ---
+Hello

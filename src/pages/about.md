@@ -38,4 +38,9 @@ The Dawson Tech Club is formed to give students an easy and free way to learn, e
 
 #### Discord
 
-\<a>asdf<\a>
+Join our Discord community!
+
+<https://discord.gg/jbWwdheAWu>
+
+
+

@@ -80,7 +80,7 @@ sections:
           From motor control to sensory data processing, learn all the necessary
           concepts and tools to build cool robots. Have the chance to
           participate in regional robotics competitions.
-        image: images/feature-2.jpg
+        image: images/industrial-and-robotics-engineering-at-gannon-university.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty

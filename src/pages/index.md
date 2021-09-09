@@ -88,7 +88,8 @@ sections:
       - title: Web Development
         content: >
           An overview of client-server architectures, user security, cloud
-          computing, HTML, and Node.js.
+          computing, HTML, and Node.js. Create web applications that will help
+          Dawson College and its community.
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right

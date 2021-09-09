@@ -8,7 +8,7 @@ sections:
       **September 9-10, 2021**
     actions:
       - label: Join the Dawson Tech Club Now!
-        url: /about
+        url: 'https://join.dawsontech.club'
         style: primary
     align: center
     padding_top: large

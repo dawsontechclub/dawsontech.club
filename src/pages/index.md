@@ -123,7 +123,7 @@ sections:
           Yes! Beginners are totally welcome to join. As long as you are
           interested, you will have no trouble.
         content_align: left
-      - title: How many hours of participation per week minimum?
+      - title: How many hours per week minimum?
         title_align: left
         content: >
           There are no minimum requirements. Your commitment is entirely based

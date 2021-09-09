@@ -156,7 +156,7 @@ sections:
     background_image_opacity: 15
 seo:
   title: Dawson Tech Club
-  description: 'Dawson Tech Club '
+  description: Dawson Tech Club website
   extra:
     - name: 'og:type'
       value: website

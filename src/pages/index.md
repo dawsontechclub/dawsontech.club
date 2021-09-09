@@ -182,7 +182,7 @@ sections:
 
 
           [https://github.com/dawsontechclub](https://github.com/daasdasdfasdffwsontechclub)
-        title: LInks
+        title: Useful Links
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large

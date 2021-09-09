@@ -116,7 +116,6 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     title: Frequently Asked Questions
-    subtitle: Our vision
     grid_items:
       - title: How can I get to the venue?
         title_align: left

@@ -42,5 +42,9 @@ Join our Discord community!
 
 <https://discord.gg/jbWwdheAWu>
 
+#### Open Source
 
+We are a big fan of open-source projects!
+
+<https://github.com/dawsontechclub>
 

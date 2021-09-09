@@ -79,8 +79,8 @@ sections:
       - title: Robotics
         content: >
           From motor control to sensory data processing, learn all the necessary
-          concepts and tools to build cool robots. Have a chance to participate
-          in regional robotics competitions.
+          concepts and tools to build cool robots. Have the chance to
+          participate in regional robotics competitions.
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left

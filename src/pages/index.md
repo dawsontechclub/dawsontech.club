@@ -131,11 +131,9 @@ sections:
         content_align: left
       - title: Do I need a computer to join?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Having a computer is preferable, but not required. If everything goes
+          accordingly, we might be able to have some computers available.
         content_align: left
       - title: What payment types do you accept?
         title_align: left

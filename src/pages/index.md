@@ -101,7 +101,7 @@ sections:
     title: Help yourself learn cool stuff!
     actions:
       - label: Join Us
-        url: /thank-you
+        url: 'https://join.dawsontech.club'
         style: primary
         has_icon: true
         icon: arrow-right

@@ -172,8 +172,14 @@ sections:
 
           **Time:** 9:30 AM to 3:30 PM
       - title: Follow Us
-        content: >
-          Discord<https://discord.gg/jbWwdheAWu>GitHub<https://github.com/dawsontechclub>
+        content: |
+          Discord
+
+          <https://discord.gg/jbWwdheAWu>
+
+          GitHub
+
+          <https://github.com/dawsontechclub>
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large

@@ -117,7 +117,7 @@ sections:
   - type: grid_section
     title: Frequently Asked Questions
     grid_items:
-      - title: 'Can I join if I have no experience at all with coding, roboticts?'
+      - title: Can I join if I don't have any experience with code or robotics?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet

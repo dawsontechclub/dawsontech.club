@@ -71,7 +71,7 @@ sections:
         content: >
           Understand the mathematical beauty of a computer brain. Classify,
           identify and generate images, sounds, really anything with AI.
-        image: images/feature-1.jpg
+        image: images/machine-learning.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty

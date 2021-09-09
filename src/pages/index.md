@@ -94,7 +94,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-

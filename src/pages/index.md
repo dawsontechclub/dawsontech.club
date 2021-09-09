@@ -123,7 +123,7 @@ sections:
           Yes! Beginners are totally welcome to join. As long as you are
           interested, you will have no trouble.
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: How many hours of participation per week minimum?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
